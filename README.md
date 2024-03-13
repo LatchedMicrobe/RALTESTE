@@ -2,9 +2,9 @@ Criar venv no python usando comando:
 ```
 python -m venv venv
 ```
-Ativar venv no diretorio do projeto usando:
+Ativar venv no diretorio do projeto usando(powershell):
 ```
-venv\Scripts\Activate.ps1 (powershell)
+venv\Scripts\Activate.ps1 
 ```
 Instalar django usando:
 ```

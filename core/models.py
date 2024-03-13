@@ -51,7 +51,7 @@ class CadastroTecnico(models.Model):
     public_authorization = models.BooleanField(default=False)
 
     def __str__(self):
-        return self.cpf.user
+        return self.cpf.user.username
 
 
 

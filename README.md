@@ -1,7 +1,7 @@
 Criar venv no python usando comando:
-'''
+```
 python -m venv venv
-'''
+```
 Ativar venv no diretorio do projeto usando:
 'venv\Scripts\Activate.ps1 (powershell)'
 
